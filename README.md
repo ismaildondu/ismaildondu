@@ -19,7 +19,7 @@ programming and cybersecurity
 
 
 
-**Languages and tools:**  
+**Languages and fw:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/49169815/121769727-eba0f480-cb6d-11eb-949e-f9671aceea07.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/49169815/121769762-1e4aed00-cb6e-11eb-9a42-ee103fe2d268.png"></code>
