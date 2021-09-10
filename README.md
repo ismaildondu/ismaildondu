@@ -15,7 +15,7 @@ programming and cybersecurity
 <br />
 
 - 🏘 Turkey/Ankara
-- 🎂 18 / y.o.
+- 🎂 19 / y.o.
 
 
 
