@@ -1,8 +1,8 @@
  Hi, I’m <b>İsmail</b> 👋
  
 <br />
-programming and cybersecurity
-- Udemy WebSec Top #5
+Developer & Designer
+
 <br />
 <a href="https://twitter.com/ismailfp">
   <img align="left" alt="ismail| Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -16,7 +16,7 @@ programming and cybersecurity
 <br />
 
 - 🏘 Turkey/Ankara
-- 🎂 19 / y.o.
+- 🎂 20  / y.o.
 
 
 
