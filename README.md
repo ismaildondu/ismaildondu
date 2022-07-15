@@ -3,14 +3,6 @@
 <br />
 Developer & Designer
 
-<br />
-<a href="https://twitter.com/ismailfp">
-  <img align="left" alt="ismail| Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<a href="İsmail#0031">
-  <img align="left" alt=" Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
 
 <br />
 <br />
