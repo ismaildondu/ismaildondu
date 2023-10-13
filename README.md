@@ -4,8 +4,7 @@
 
 
 - 🏘 Turkey
-- 🎂 20  / y.o.
-- 1/4 University
+- 🎂 21  / y.o.
 
 
 
