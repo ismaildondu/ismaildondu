@@ -5,7 +5,6 @@
 
 - 🏘 Turkey
 - 🎂 22  / y.o.
-- Information Systems Engineering Student
 
 
 
